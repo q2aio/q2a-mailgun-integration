@@ -24,7 +24,7 @@ Installation
 .. _project page: https://github.com/PublicityPort/q2a-mailgun-integration.git
 .. _bug report page: https://publicityport.com/forum/
 
-#. If you encounter any issue, you can always report it at bug report page.
+#. If you encounter any issue, you can always report it at 'bug report page'_.
     
 ----------
 Disclaimer
