@@ -5,12 +5,6 @@ Question2Answer send email through MailGun API
 Description
 -----------
 This is a plugin for **Question2Answer** that overrides existing send email functionality and helps  you send an email via MailGun API. 
-
---------
-Features
---------
-- currently 57 badges implemented (see `Badge List`_ below)
-
 ------------
 Installation
 ------------
@@ -25,10 +19,10 @@ Installation
 
 #. Go to **Admin -> Plugins** on your q2a install and select the '**Activate badges**' option, then '**Save Changes**'.
 
-.. _Question2Answer: http://www.question2answer.org/install.php
-.. _git: http://git-scm.com/
+    - Question2Answer: http://www.question2answer.org/install.php
+    - git: http://git-scm.com/
 .. _project page: https://github.com/PublicityPort/q2a-mailgun-integration.git
-.. _bug report: https://publicityport.com/forum/
+    - bug report: https://publicityport.com/forum/
     
 ----------
 Disclaimer
