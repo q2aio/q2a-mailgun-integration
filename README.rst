@@ -26,7 +26,7 @@ Installation
 ----------
 Report an issue
 ----------
-    - If you encounter any issue, you can always report it at 'bug report page'_.
+#. If you encounter any issue, you can always report it at 'bug report page'_.
 
 .. _bug report page: https://publicityport.com/forum/
 ----------
