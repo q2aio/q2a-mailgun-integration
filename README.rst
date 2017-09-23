@@ -17,12 +17,14 @@ Installation
      at the command prompt (on Linux, Windows is a bit different)
    - To download directly, go to the `project page`_ and click **Download**
 
-#. Go to **Admin -> Plugins** on your q2a install and select the '**Activate badges**' option, then '**Save Changes**'.
+#. Go to **Admin -> Plugins** on your q2a install and select the '**Q2A MailGun integration**' option, then check option '**Do you want to enable send email via MailGun API**', enter your '**MailGun API Key:**' and '**Your domain**', then '**Save Changes**'.
 
-    - Question2Answer: http://www.question2answer.org/install.php
-    - git: http://git-scm.com/
+.. _Question2Answer: http://www.question2answer.org/install.php
+.. _git: http://git-scm.com/
 .. _project page: https://github.com/PublicityPort/q2a-mailgun-integration.git
-    - bug report: https://publicityport.com/forum/
+.. _bug report page: https://publicityport.com/forum/
+
+#. If you encounter any issue, you can always report it at bug report page.
     
 ----------
 Disclaimer
