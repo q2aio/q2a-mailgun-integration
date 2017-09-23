@@ -1,10 +1,12 @@
 ==============================
 Question2Answer, send email through MailGun API
 ==============================
+
 -----------
 Description
 -----------
 This is a plugin for **Question2Answer** that overrides existing send email functionality and helps  you send an email via MailGun API. 
+
 ------------
 Installation
 ------------
@@ -26,7 +28,10 @@ Installation
 ----------
 Report an issue
 ----------
-If you encounter any issue, you can always report it at https://publicityport.com/forum/.
+If you encounter any issue, you can always report it at PublicityPortForum_.
+
+.. _PublicityPortForum: https://publicityport.com/forum/
+
 ----------
 Disclaimer
 ----------
@@ -40,7 +45,7 @@ All code herein is Copylefted_.
 .. _Copylefted: http://en.wikipedia.org/wiki/Copyleft
 
 ---------
-About q2A
+About Q2A
 ---------
 Question2Answer is a free and open source platform for Q&A sites. For more information, visit:
 
