@@ -1,0 +1,10 @@
+{
+	"name": "Q2A MailGun integration",
+	"description": "Integrates send email using MailGun through the API",
+	"version": "1.0",
+	"date": "2017-09-23",
+	"author": "Publicity Port",
+	"author_uri": "https://publicityport.com",
+	"license": "GPLv3",
+	"min_q2a": "1.7.4"
+}

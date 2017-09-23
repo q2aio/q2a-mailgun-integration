@@ -5,11 +5,10 @@ if (!defined('QA_VERSION')) {
 	exit;
 }
 
-// import Email.php file
-require_once QA_INCLUDE_DIR.'app/emails.php';
-
 /*
 // Register file to override the functions
 // present in the file
 */
-qa_register_plugin_overrides('emails.php');
+qa_register_plugin_overrides('qa-mailgun-integration.php');
+
+qa_register_plugin_module('module', 'qa-mailgun-admin_config.php', 'qa_mailgun_admin_config', 'Q2A MailGun Configuration');
