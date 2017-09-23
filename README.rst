@@ -28,9 +28,9 @@ Installation
 ----------
 Report an issue
 ----------
-If you encounter any issue, you can always report it at PublicityPortForum_.
+If you encounter any issue, you can always report it at `Publicity Port Forum`_.
 
-.. _PublicityPortForum: https://publicityport.com/forum/
+.. _Publicity Port Forum: https://publicityport.com/forum/
 
 ----------
 Disclaimer
