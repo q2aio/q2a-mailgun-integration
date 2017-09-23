@@ -18,13 +18,17 @@ Installation
    - To download directly, go to the `project page`_ and click **Download**
 
 #. Go to **Admin -> Plugins** on your q2a install and select the '**Q2A MailGun integration**' option, then check option '**Do you want to enable send email via MailGun API**', enter your '**MailGun API Key:**' and '**Your domain**', then '**Save Changes**'.
-#. If you encounter any issue, you can always report it at 'bug report page'_.
 
 .. _Question2Answer: http://www.question2answer.org/install.php
 .. _git: http://git-scm.com/
 .. _project page: https://github.com/PublicityPort/q2a-mailgun-integration.git
-.. _bug report page: https://publicityport.com/forum/
 
+----------
+Report an issue
+----------
+    - If you encounter any issue, you can always report it at 'bug report page'_.
+
+.. _bug report page: https://publicityport.com/forum/
 ----------
 Disclaimer
 ----------
